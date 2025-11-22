@@ -1,9 +1,14 @@
 # AbonConsole - Command Console for Unity Games
 ![Title Demo](ReadmeImages/AbonConsoleTitleDemo.gif) 
-AbonConsole is a powerful command interpreter and uGUI interface designed to be easy to integrate and expand upon.
+
+AbonConsole is a powerful command interpreter and uGUI interface designed to be easy to integrate and expand upon. 
 
 ## Pardon Our (My) Dust
 AbonConsole currently does not compile when placed in an empty Unity project. It's been directly copied from an ongoing game project, and has some unresolved dependencies despite my best efforts to make it self contained. I'm currently working to fix these.
+
+## Roadmap
+- [] Get it to compile in an empty project (important!)
+- [] Set up repository as a Unity package and reorganize it according to Unity's [package layout conventions](https://docs.unity3d.com/6000.2/Documentation/Manual/cus-layout.html).
 
 ## Syntax
 AbonConsole uses an ANTLR-generated parser to provide an intuitive syntax suited to quick command entry, with some extra features not often found in command consoles.
