@@ -1,5 +1,5 @@
 # AbonConsole - Command Console for Unity Games
-
+![Title Demo](ReadmeImages/AbonConsoleTitleDemo.gif) 
 AbonConsole is a powerful command interpreter and uGUI interface designed to be easy to integrate and expand upon.
 
 ## Pardon Our (My) Dust
